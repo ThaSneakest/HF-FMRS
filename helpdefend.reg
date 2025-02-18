@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows Defender]
+"DisableAntiSpyware"=-
+"DisableAntiVirus"=-
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows Defender]
+"DisableAntiSpyware"=dword:00000000
+"DisableAntiVirus"=dword:00000000
